@@ -1,1 +1,1 @@
-we are doing lab2
+we start our final project here on July 6, 2019
