@@ -1,0 +1,5 @@
+Process Book
+Initial Commit[Including Procfile, requirements.txt, routes.py, README.md, virtual environment, index.html, layout.html, gunicorn, flask implemented]--June 31, 2019
+First Meeting with Jeff--Saturday, July 6, 2019
+First Deployed[With price prediction added, regr.pkl implemented]--Sunday, July 7, 2019
+Project Plan.md implemented--Monday, July 8, 2019
