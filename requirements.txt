@@ -1,6 +1,6 @@
 anaconda==0.0.1.1
 anaconda-client==1.2.2
-certifi==2019.6.16
+certifi==2022.12.7
 chardet==3.0.4
 Click==7.0
 clyent==1.2.1
